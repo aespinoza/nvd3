@@ -1,6 +1,6 @@
 # nvd3 - v0.0.1
 
-A reusable chart library for d3.JS by Bob Monteverde of Novus Partners.
+A reusable chart library for d3.JS by Bob Monteverde of Novus Partners. *Unfortunately, Novus decided to close the source, so this is a mirror only for historical purpose.* 
 
 Currently in an early stage of development, but will be a very active project.  It may change quite a bit from its current state, but will always try to follow the style in which d3.js was done.
 
